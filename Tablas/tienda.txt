@@ -1,0 +1,8 @@
+id_tienda|tienda|figura|id_ubicacion|direccion|distrito|distritotienda
+1|WallFoots|wallfoots.png|91|Calle Rivero 110|Cayma|Cayma:WallFoots
+2|SuperAhorro|superahorro.png|14|Prolongación Huaylas 290|Chorrillos|Chorrillos:SuperAhorro
+3|SuperMax|supermax.jpg|36|Av. Arqueologia 190|San Borja|San Borja:SuperMax
+4|El Oferton|oferton.jpg|37|Jr. Amador Merino Reyna|San Isidro|San Isidro:El Oferton
+5|El Paisano|paisano.jpg|204|Av. España 1030|Trujillo|Trujillo:El Paisano
+6|Premium|premiun.jpg|28|Av. Jose Pardo 510|Miraflores|Miraflores:Premium
+7|Primavera|primavera.jpg|438|Jr. Tacna 160|Piura|Piura:Primavera

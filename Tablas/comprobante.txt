@@ -1,0 +1,48 @@
+IdComprobante|TipoComprobante
+1|FACTURA
+2|RECIBO POR HONORARIOS
+3|BOLETA DE VENTA                                                                 
+4|LIQUIDACION DE COMPRA                                                           
+5|BOLETO DE COMPANIAS DE AVIACION                                                 
+6|CARTA DE PORTE AEREO                                                            
+7|NOTA DE CREDITO                                                                 
+8|NOTA DE DEBITO                                                                  
+9|GUIA DE REMISION
+10|RECIBO POR ARRENDAMIENTO                                                        
+11|POLIZA DE LA BOLSA DE VALORES                                                   
+12|TICKET DE MAQUINA REGISTRADORA                                                  
+13|DOCUMENTOS BANCA Y SEGUROS                                                      
+14|RECIBOS POR SERVICIOS PUBLICOS                                                  
+15|BOLETO EMITIDO POR EL TRANSPORTE URBANO                                         
+16|BOLETO DE VIAJE-TRANSPORTE INTERPROVINCIAL                                      
+17|DOCUMENTOS EMITIDOS POR LA IGLESIA                                              
+18|DOCUMENTOS EMITIDOS POR LAS AFP Y EPS                                           
+19|BOLETOS POR ATRACCIONES Y ESPECTAC.PUBLIC.
+20|COMPROBANTE DE RETENCION
+21|CONOCIMIENTO DE EMBARQUE                                                        
+22|COMPROBANTE POR OPERACIONES NO HABITUALES                                       
+23|POLIZA DE ADJUDICACION POR REMATE DE BIENES                                     
+24|CERTIFICADO DE PAGO REGALIAS-PERUPETRO S.A.                                     
+25|DOCUMENTO DE ATRIBUCION                                                         
+26|RECIBO POR EL PAGO DE TARIFA POR USO DE AGUA SUPERFICIAL                        
+27|SEGURO COMPLEMENTARIO DE TRABAJO DE RIESGO                                      
+28|TARIFA UNIFICADA DE USO DE AEROPUERTO                                           
+29|DOCUMENTOS EMITIDOS POR LA COFOPRI                                              
+30|DOC. EMIT. EMPRESAS ADQ. EN LOS SIST. DE PAGO MED. TARJETAS DE CRÉDITO O DÉBITO 
+32|DOC. EMIT. EMP. RECAUDADORAS (GARANTIA DE RED PRINCIPAL)                        
+34|DOCUMENTO DEL OPERADOR                                                          
+35|DOCUMENTO DEL PARTICIPE                                                         
+36|RECIBO DE DISTRIBUCION DE GAS NATURAL                                           
+37|DOC. CONCESIONARIOS DEL SERVICIO REVISIONES TECNICAS VEHICULARES                
+50|DECLARACION UNICA DE ADUANAS - IMPORTACION DEFINITIVA                           
+52|DESPACHO SIMPLIFICADO - IMPORTACION SIMPLIFICADA                                
+53|DECLARACION DE MENSAJERIA O COURIER                                             
+54|LIQUIDACION DE COBRANZA      
+55|BOLETO DE VIAJE EMITIDO POR MEDIOS ELECTRÓNICOS PARA TRANSPORTE FERROVIARIO DE PASAJEROS (BVME)                                                   
+87|NOTA DE CREDITO ESPECIAL 
+88|NOTA DE DEBITO ESPECIAL 
+91|COMPROBANTE DE NO DOMICILIADO                                                   
+96|EXCESO DE CREDITO FISCAL POR RETIRO DE BIENES                                   
+97|NOTA DE CREDITO - NO DOMICILIADO                                                
+98|NOTA DE DEBITO - NO DOMICILIADO                                                 
+99|OTROS-CONSOLIDADO DE BOLETAS DE VENTA  

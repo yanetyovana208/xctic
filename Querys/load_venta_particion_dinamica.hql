@@ -1,0 +1,3 @@
+set hive.exec.dynamic.partition.mode=nonstrict;
+insert into table proyecto.transaccion_particion_dinamica partition (tipocliente)
+SELECT distinct  UPPER(cliente) AS Cliente, Case when tipocomprobante = 'BOLETA DE VENTA' then 'Boleta' when tipocomprobante = 'NOTA DE CREDITO' then 'Nota_credito' else 'Factura' end as tipotransaccion, (CASE WHEN cast(venta_mn as decimal(19, 2)) < '100' THEN 'BAJA' WHEN cast(venta_mn as decimal(19, 2)) BETWEEN '100' AND '2000' THEN 'MEDIA' ELSE 'ALTA' END) AS tipocliente FROM proyecto.transaccion;
